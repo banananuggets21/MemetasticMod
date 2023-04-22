@@ -5,7 +5,8 @@ Adds funni sounds to the Opera GX browser plus cool shaders and stuff. It's 🔥
 # How to Install
 
 # Step 1: 
-Download Opera GX (duh)
+Download Opera GX (duh)  
+If you're a silly sussy baka who doesn't know how to download Github repos, click the green code button on the top right and then at the bottom of the dropdown click Download ZIP. Don't forget to unzip the file before going to step 2 UwU
 # Step 2: 
 Click the extension menu (it's the box thingy on the top right) and on the bottom of the menu click "Manage Extensions"
 # Step 3:
