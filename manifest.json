@@ -1,0 +1,172 @@
+{
+    "name": "Memetastic",
+    "description": "Yeet",
+    "developer":
+    {
+        "name": "Deez Nuts"
+    },
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "manifest_version": 3,
+    "mod":
+    {
+        "license": "license.txt",
+        "payload":
+        {
+            "background_music":
+            [
+                "music/goofy.mp3",
+                "music/spinseal.mp3",
+                "music/outro.mp3",
+                "music/subway.mp3"
+            ],
+            "browser_sounds":
+            {
+                "CLICK":
+                [
+                    "sound/doot.mp3"
+                ],
+                "FEATURE_SWITCH_OFF":
+                [
+                    "sound/dinosaur.mp3"
+                ],
+                "FEATURE_SWITCH_ON":
+                [
+                    "sound/kaching.mp3"
+                ],
+                "HOVER":
+                [
+                    "sound/fbi.mp3"
+                ],
+                "HOVER_UP":
+                [
+                    "sound/scream.mp3"
+                ],
+                "IMPORTANT_CLICK":
+                [
+                    "sound/mgs.mp3"
+                ],
+                "LEVEL_UPGRADE":
+                [
+                    "sound/wilheim.mp3"
+                ],
+                "LIMITER_OFF":
+                [
+                    "sound/amongus.mp3"
+                ],
+                "LIMITER_ON":
+                [
+                    "sound/brb.mp3"
+                ],
+                "SWITCH_TOGGLE":
+                [
+                    "sound/ps2.mp3"
+                ],
+                "TAB_CLOSE":
+                [
+                    "sound/bruh.mp3"
+                ],
+                "TAB_INSERT":
+                [
+                    "sound/dialup.mp3"
+                ],
+                "TAB_SLASH":
+                [
+                    "sound/goat.mp3"
+                ]
+            },
+            "keyboard_sounds":
+            {
+                "TYPING_BACKSPACE":
+                [
+                    "keyboard/bing.mp3"
+                ],
+                "TYPING_ENTER":
+                [
+                    "keyboard/vinebass.mp3"
+                ],
+                "TYPING_LETTER":
+                [
+                    "keyboard/vineboom.mp3",
+                    "keyboard/fart.mp3",
+                    "keyboard/dog.mp3"
+                ],
+                "TYPING_SPACE":
+                [
+                    "keyboard/omg.mp3"
+                ]
+            },
+            "page_styles":
+            [
+                {
+                    "css":
+                    [
+                        "webmodding/opera.css"
+                    ],
+                    "matches":
+                    [
+                        "https://*.opera.com/*"
+                    ]
+                }
+            ],
+            "shaders":
+            {
+                
+            },
+            "theme":
+            {
+                "dark":
+                {
+                    "gx_accent":
+                    {
+                        "h": 182,
+                        "s": 100,
+                        "l": 50,
+                        "A": 0.77
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 0,
+                        "s": 100,
+                        "l": 53,
+                        "A": 0.4
+                    }
+                },
+                "light":
+                {
+                    "gx_accent":
+                    {
+                        "h": 112,
+                        "s": 80,
+                        "l": 44
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 272,
+                        "s": 32,
+                        "l": 16
+                    }
+                }
+            },
+            "wallpaper":
+            {
+                "dark":
+                {   
+                    "image": "wallpaper/peperain.jpg",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#757575"
+                },
+                "light":
+                {
+                    "image": "wallpaper/memepaper.jpg",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#0B000E"
+                }
+            }
+        },
+        "schema_version": 1
+    },
+    "version": "1.0"
+}
