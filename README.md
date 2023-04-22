@@ -2,14 +2,14 @@
 
 Adds funni sounds to the Opera GX browser plus cool shaders and stuff. It's 🔥  
 
-Here is a demo: https://youtu.be/re-1hyIvvcg
+[Here is a demo](https://youtu.be/re-1hyIvvcg)
 
 # How to Install
 
 # Step 1: 
-Download Opera GX (duh)
+[Download Opera GX (duh)](https://www.opera.com/gx/gx-browser?utm_id=Cj0KCQjwi46iBhDyARIsAE3nVrYTtRuBkDKKUq40ckWCCiS-SC0MOvHDXqQVBEpz3VxWciG2eng2zrsaAtdxEALw_wcB&utm_medium=pa&utm_source=google&utm_campaign=OGX_US_Search_EN_T1_Brand_V2&gad=1&gclid=Cj0KCQjwi46iBhDyARIsAE3nVrYTtRuBkDKKUq40ckWCCiS-SC0MOvHDXqQVBEpz3VxWciG2eng2zrsaAtdxEALw_wcB)
 # Step 2:
-If you're a silly little sussy baka who doesn't know how to download Github repos such as this one, click the green code button on the top right and then at the bottom of the dropdown click Download ZIP. Don't forget to unzip the file before going to step 3 UwU
+If you're a silly little sussy baka who doesn't know how to download Github repos such as this one, click the green code button on the top right and then at the bottom of the dropdown click Download ZIP, [or just click here lol](https://github.com/banananuggets21/MemetasticMod/archive/refs/heads/main.zip). Don't forget to unzip the file before going to step 3 UwU
 # Step 3: 
 In Opera GX, Click the extension menu (it's the box thingy on the top right) and on the bottom of the menu click "Manage Extensions"
 # Step 4:
