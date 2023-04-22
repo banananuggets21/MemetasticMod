@@ -1,6 +1,8 @@
 # MemetasticMod for Opera GX
 
-Adds funni sounds to the Opera GX browser plus cool shaders and stuff. It's 🔥
+Adds funni sounds to the Opera GX browser plus cool shaders and stuff. It's 🔥  
+
+Here is a demo: https://youtu.be/re-1hyIvvcg
 
 # How to Install
 
